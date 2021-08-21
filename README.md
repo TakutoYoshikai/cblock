@@ -12,6 +12,7 @@ pip3 install git+https://github.com/TakutoYoshikai/cblock.git
 cblock
 # cblock window is displayed.
 ```
+You can close the cblock window when you want cblock to end.
 
 ### LICENSE
 MIT LICENSE
