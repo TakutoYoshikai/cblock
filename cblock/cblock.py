@@ -16,6 +16,7 @@ def main():
     thread.start();
     root = tkinter.Tk()
     root.title("cblock is enabled")
+    root.resizable(False, False)
     w = root.winfo_screenwidth()
     w = w - 300
     root.geometry("300x1+" + str(w) + "+0")
