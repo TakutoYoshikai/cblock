@@ -15,7 +15,7 @@ def main():
     thread.setDaemon(True)
     thread.start();
     root = tkinter.Tk()
-    root.title("cblock is enable")
+    root.title("cblock is enabled")
     w = root.winfo_screenwidth()
     w = w - 300
     root.geometry("300x1+" + str(w) + "+0")
