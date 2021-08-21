@@ -8,7 +8,7 @@ setup(
     author = 'Takuto Yoshikai',
     author_email = 'takuto.yoshikai@gmail.com',
     description = 'cblock is a tool for blocking to use camera.',
-    install_requires = ['setuptools', "tkinter", "opencv-python"],
+    install_requires = ['setuptools', "opencv-python"],
     packages = find_packages(),
     entry_points={
         "console_scripts": [
